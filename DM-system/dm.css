@@ -1,0 +1,33 @@
+main{
+    display: flex;
+    width: 94%;
+    justify-content: center;
+    padding: 3%;
+    height: 100%;
+}
+
+.sendMsg{
+    width: 50%;
+    text-align: center;
+}
+
+.friends{
+    width: 50%;
+}
+
+.conversation{
+    height: 50%;
+}
+
+.friend{
+    background-color: #fff;
+    border: none;    
+}
+
+.friend:hover{
+    color: #333;
+}
+
+iframe{
+    width: 100%;
+}
