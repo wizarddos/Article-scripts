@@ -1,0 +1,51 @@
+.content{
+    font-family: Arial, sans-serif;
+}
+
+.LoremIpsum{
+    font-size: x-large;
+    color: aquamarine;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: orange;
+}
+
+h1{
+    text-align: center;
+}
+
+.content{
+    width: 45%;
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.input{
+    padding: 0.5%;
+    border-radius: 15px;
+}
+
+.submit{
+    background-color: rgb(220, 255, 235);
+    color: black;
+    border: 1px cornsilk solid;
+    border-radius: 3px;
+    padding: 0.5%;
+}
+
+.submit:hover{
+    background-color: rgb(192, 252, 218);
+}
+
+.feedback{
+    text-align: center;
+}
